@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomLoaderLinksCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MeshGroups>
+    <CustomLoaderLinksData name="polySurface2">
+      <AlbedoPath />
+      <NormalPath />
+      <SpecMetalPath />
+      <GlossRoughPath />
+      <EmissivePath />
+      <AOPath />
+      <OpacityPath />
+      <BumpPath />
+      <HeightPath />
+    </CustomLoaderLinksData>
+  </MeshGroups>
+  <IsMetalnessWorkflow>true</IsMetalnessWorkflow>
+  <MeshPath>D:\Repos\Royale-3D 4.15\Import\Fire Spirits\Fire Spirits.fbx</MeshPath>
+  <AlbedoIntensity>1</AlbedoIntensity>
+  <SpecIntensity>1</SpecIntensity>
+  <GlossIntensity>1</GlossIntensity>
+  <EmissionIntensity>1</EmissionIntensity>
+  <AOIntensity>1</AOIntensity>
+  <TransparencyIntensity>1</TransparencyIntensity>
+  <HeightIntensity>0</HeightIntensity>
+  <BumpIntensity>1</BumpIntensity>
+  <NormalIntensity>1</NormalIntensity>
+  <AlbedoToggle>false</AlbedoToggle>
+  <SpecToggle>false</SpecToggle>
+  <GlossToggle>false</GlossToggle>
+  <EmissionToggle>false</EmissionToggle>
+  <AOToggle>false</AOToggle>
+  <TransparencyToggle>false</TransparencyToggle>
+  <HeightToggle>false</HeightToggle>
+  <BumpToggle>false</BumpToggle>
+  <NormalToggle>false</NormalToggle>
+</CustomLoaderLinksCollection>
