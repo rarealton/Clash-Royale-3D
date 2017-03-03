@@ -1,1 +1,1 @@
-git config --global alias.pa '!git push origin master && git push surreal master'
+git config --global alias.pa '!git push master master && git push surreal master'
