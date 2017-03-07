@@ -6,7 +6,7 @@ This is a wip, so don't expect much. Also, if there are any copyright issues, le
 
 
 
-Playable builds are downloadable here :https://goo.gl/EMQV7G
+Playable builds are downloadable here :https://goo.gl/i6S9sU
 
 Recommended system specs: i5/AMD quad core CPU or higher, GTX 770/R9 290 or higher, and at least 4GB RAM.
 
