@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.15",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ToolbagImporter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5510b9babf944b8e97cd533640f78a2f"
+		}
+	]
 }
