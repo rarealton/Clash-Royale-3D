@@ -1,6 +1,6 @@
 @echo off
 git pull surreal master
-git pull origin master
+git pull hub master
 
 cls
 git status
@@ -12,7 +12,8 @@ git status
 set /p pushOrCommit="Choice: "
 
 if "%pushOrCommit%" == "1" (
-	git push
+	git push surreal master
+	git push hub master
 	pause
 	exit
 )
