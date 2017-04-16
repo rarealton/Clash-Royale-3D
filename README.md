@@ -1,7 +1,7 @@
 # Clash Royale 3D
 
 The semi-official 3D version of Clash Royale.
-This is a work in progress, so don't expect too much. Also, if there are any copyright issues, let me know and I will adress them as soon as I can.
+This is a work in progress, so don't expect much. Also, if there are any copyright issues, let me know and I will adress them as soon as I can.
 
 
 
