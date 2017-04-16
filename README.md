@@ -15,4 +15,4 @@ Recommended system specs: i5/AMD quad core CPU or higher, GTX 770/R9 290 or high
 
 <b>Disclaimer: I am not responsible for any damage to your computer resulting from intense GPU usage, since this is meant to be pretty, not fast.</b>
 
-<i>TL;DR - 3D Clash Royale awesomeness that will burn holes through your PC hardware and may or may not bring Armageddon to the planet.
+<i>TL;DR - 3D Clash Royale awesomeness that will burn holes through your PC hardware and may or may not bring Armageddon to the planet.</i>
